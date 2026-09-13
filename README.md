@@ -1,4 +1,7 @@
-![Uploading macbook-duo-icon.png…]()
+<p align="center">
+<img src="https://github.com/satiyaganes06/Macbook-Duo/Resources/AppIcon.png" width = "306"  class="center">
+</p>
+<h1 align="center">lastPiece : M-Commerce App</h1>
 
 # MacBook Duo
 

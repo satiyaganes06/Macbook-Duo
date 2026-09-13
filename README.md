@@ -1,3 +1,5 @@
+![Uploading macbook-duo-icon.png…]()
+
 # MacBook Duo
 
 A native Swift + Metal + ScreenCaptureKit menu bar app that makes your desktop follow

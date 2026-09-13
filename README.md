@@ -1,5 +1,5 @@
 <p align="center">
-<img src="[https://github.com/satiyaganes06/Macbook-Duo/Resources/AppIcon.png](https://github.com/satiyaganes06/Macbook-Duo/blob/main/Resources/AppIcon.png?raw=true)" width = "306"  class="center">
+<img src="https://github.com/satiyaganes06/Macbook-Duo/blob/main/Resources/AppIcon.png?raw=true" width = "306"  class="center">
 </p>
 <h1 align="center">MacBook Duo</h1>
 

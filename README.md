@@ -1,9 +1,7 @@
 <p align="center">
 <img src="https://github.com/satiyaganes06/Macbook-Duo/Resources/AppIcon.png" width = "306"  class="center">
 </p>
-<h1 align="center">lastPiece : M-Commerce App</h1>
-
-# MacBook Duo
+<h1 align="center">MacBook Duo</h1>
 
 A native Swift + Metal + ScreenCaptureKit menu bar app that makes your desktop follow
 your MacBook lid. As you close the lid, the built-in display is captured and rendered
